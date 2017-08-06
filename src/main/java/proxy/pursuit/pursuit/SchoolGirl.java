@@ -1,13 +1,10 @@
-package decorator.finery.person;
+package proxy.pursuit.pursuit;
 
-public class Person {
+public class SchoolGirl {
 
     private String name;
 
-    public Person() {
-    }
-
-    public Person(String name) {
+    public SchoolGirl(String name) {
         this.name = name;
     }
 
@@ -17,10 +14,6 @@ public class Person {
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    public void show() {
-        System.out.println(name + ' ');
     }
 
 }
