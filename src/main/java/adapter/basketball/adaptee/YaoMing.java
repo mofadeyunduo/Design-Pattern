@@ -1,4 +1,4 @@
-package adapter.basketball.player;
+package adapter.basketball.adaptee;
 
 public class YaoMing {
 

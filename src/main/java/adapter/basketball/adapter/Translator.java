@@ -1,6 +1,7 @@
-package adapter.basketball.player;
+package adapter.basketball.adapter;
 
-import adapter.basketball.playerInterface.Player;
+import adapter.basketball.adaptee.YaoMing;
+import adapter.basketball.target.Player;
 
 public class Translator extends Player {
 

@@ -1,6 +1,6 @@
-package templateMethod.testPaper.answer;
+package templateMethod.testPaper.concreteClass;
 
-import templateMethod.testPaper.testPaper.TestPaper;
+import templateMethod.testPaper.abstractClass.TestPaper;
 
 public class Answer1 extends TestPaper {
 

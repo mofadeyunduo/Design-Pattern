@@ -1,9 +1,9 @@
 package decorator.finery;
 
+import decorator.finery.component.Person;
 import decorator.finery.decorator.Sandal;
 import decorator.finery.decorator.Shorts;
 import decorator.finery.decorator.TShirt;
-import decorator.finery.person.Person;
 import org.junit.Test;
 
 public class FineryTest {

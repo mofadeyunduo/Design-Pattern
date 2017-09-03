@@ -1,6 +1,6 @@
 package decorator.finery.decoratorInterface;
 
-import decorator.finery.person.Person;
+import decorator.finery.component.Person;
 
 public class Finery extends Person {
 

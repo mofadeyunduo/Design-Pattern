@@ -1,4 +1,4 @@
-package prototype.resume.resume;
+package prototype.resume.prototype;
 
 public class Resume implements Cloneable {
 

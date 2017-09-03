@@ -1,4 +1,4 @@
-package templateMethod.testPaper.testPaper;
+package templateMethod.testPaper.abstractClass;
 
 public abstract class TestPaper {
 

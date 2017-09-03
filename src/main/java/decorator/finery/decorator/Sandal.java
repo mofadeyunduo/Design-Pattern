@@ -1,7 +1,7 @@
 package decorator.finery.decorator;
 
+import decorator.finery.component.Person;
 import decorator.finery.decoratorInterface.Finery;
-import decorator.finery.person.Person;
 
 public class Sandal extends Finery {
 

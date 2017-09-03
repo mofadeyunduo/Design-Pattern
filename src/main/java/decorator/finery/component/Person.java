@@ -1,4 +1,4 @@
-package decorator.finery.person;
+package decorator.finery.component;
 
 public class Person {
 

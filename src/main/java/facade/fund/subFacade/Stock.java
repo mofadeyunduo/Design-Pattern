@@ -1,4 +1,4 @@
-package facade.fund.stock;
+package facade.fund.subFacade;
 
 public class Stock {
 

@@ -1,7 +1,7 @@
 package prototype.resume;
 
 import org.junit.Test;
-import prototype.resume.resume.Resume;
+import prototype.resume.prototype.Resume;
 
 public class ResumeTest {
 

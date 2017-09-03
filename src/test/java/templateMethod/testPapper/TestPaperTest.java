@@ -1,9 +1,9 @@
 package templateMethod.testPapper;
 
 import org.junit.Test;
-import templateMethod.testPaper.answer.Answer1;
-import templateMethod.testPaper.answer.Answer2;
-import templateMethod.testPaper.testPaper.TestPaper;
+import templateMethod.testPaper.abstractClass.TestPaper;
+import templateMethod.testPaper.concreteClass.Answer1;
+import templateMethod.testPaper.concreteClass.Answer2;
 
 public class TestPaperTest {
 

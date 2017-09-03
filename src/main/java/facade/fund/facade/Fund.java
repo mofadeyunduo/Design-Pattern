@@ -1,7 +1,7 @@
-package facade.fund.fund;
+package facade.fund.facade;
 
-import facade.fund.stock.NationalDebt;
-import facade.fund.stock.Stock;
+import facade.fund.subFacade.NationalDebt;
+import facade.fund.subFacade.Stock;
 
 public class Fund {
 

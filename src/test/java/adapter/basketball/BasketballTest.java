@@ -1,9 +1,9 @@
 package adapter.basketball;
 
-import adapter.basketball.player.ForwardsPlayer;
-import adapter.basketball.player.GuardsPlayer;
-import adapter.basketball.player.Translator;
-import adapter.basketball.playerInterface.Player;
+import adapter.basketball.adapter.Translator;
+import adapter.basketball.target.ForwardsPlayer;
+import adapter.basketball.target.GuardsPlayer;
+import adapter.basketball.target.Player;
 import org.junit.Test;
 
 public class BasketballTest {

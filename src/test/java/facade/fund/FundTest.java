@@ -1,6 +1,6 @@
 package facade.fund;
 
-import facade.fund.fund.Fund;
+import facade.fund.facade.Fund;
 import org.junit.Test;
 
 public class FundTest {
